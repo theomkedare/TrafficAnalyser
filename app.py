@@ -63,6 +63,7 @@ with st.sidebar:
         label_visibility="collapsed",
     )
 
+
     st.markdown("---")
 
     # ── quick stats in sidebar ──────────────────────────────────────────────
