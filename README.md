@@ -2,6 +2,8 @@
 
 **Data Mining & Data Warehousing — College Project**
 
+**Developed By-** Shriwayanta Maiti, Harshal Nanekar, Om Kedare
+
 ---
 
 ## 📁 Project Structure
